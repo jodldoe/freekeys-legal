@@ -19,4 +19,8 @@ Open Settings in the app and tap "Ad privacy choices…". This entry is shown wh
 **I left a tip by mistake.**
 Tips are handled by Apple. You can request a refund at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
+## Support FreeKey
+
+FreeKey is free. If you would like to support its development, you can leave a tip of any amount on Ko-fi, a website for supporting creators: [ko-fi.com/freekeys](https://ko-fi.com/freekeys).
+
 [Privacy Policy](privacy)
